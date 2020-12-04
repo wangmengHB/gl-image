@@ -1,3 +1,8 @@
+This repo is transfer to [utilities-library](https://github.com/wangmengHB/utilities-library) for easily management, which is a multiple npm packages repo managed by lerna. The npm package will still be maintained continously. 
+
+This repo will be deleted in one month later!!!.
+
+
 # gl-image
 gl-image is a util library based on webgl for image filter functions.   
 This project is inspired by [@evanw](https://github.com/evanw/glfx.js).
